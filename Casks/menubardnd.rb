@@ -1,6 +1,6 @@
 cask 'menubardnd' do
-  version '1.0'
-  sha256 '353d1339f1e53b2abb634ca8220b057249f993f15f40d5370850d64820aaefd4'
+  version '1.1'
+  sha256 'f3e055cefaa3e47055495949e5b6f310273820f14b29f2f0a2b163497e277cbb'
 
   url 'https://github.com/alexzye/MenuBarDnD/releases/download/v1.0/MenuBarDnD.zip'
   name 'MenuBarDnD'
